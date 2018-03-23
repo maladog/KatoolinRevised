@@ -9,11 +9,11 @@ Automatically install all Kali linux tools
 
 # Requirements
 - Python 2.7
-- An operating system (tested on Ubuntu)
+- An operating system (tested on Ubuntu & Windows WSL Kali Linux)
 
 # Installation
 - sudo su
-- git clone https://github.com/LionSec/katoolin.git && cp katoolin/katoolin.py /usr/bin/katoolin
+- git clone https://github.com/maladog/KatoolinRevised.git && cp katoolin/katoolin.py /usr/bin/katoolin
 - chmod +x /usr/bin/katoolin
 - sudo katoolin 
 
